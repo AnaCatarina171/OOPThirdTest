@@ -1,0 +1,13 @@
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3.UI\bin\Debug\OOPTest3.UI.exe.config
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3.UI\bin\Debug\OOPTest3.UI.exe
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3.UI\bin\Debug\OOPTest3.UI.pdb
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3.UI\bin\Debug\OOPTest3.dll
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3.UI\bin\Debug\OOPTest3.pdb
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3.UI\obj\Debug\OOPTest3.UI.csproj.AssemblyReference.cache
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3.UI\obj\Debug\OOPTest3.UI.Form1.resources
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3.UI\obj\Debug\OOPTest3.UI.Properties.Resources.resources
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3.UI\obj\Debug\OOPTest3.UI.csproj.GenerateResource.cache
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3.UI\obj\Debug\OOPTest3.UI.csproj.CoreCompileInputs.cache
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3.UI\obj\Debug\OOPTest3.UI.csproj.CopyComplete
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3.UI\obj\Debug\OOPTest3.UI.exe
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3.UI\obj\Debug\OOPTest3.UI.pdb

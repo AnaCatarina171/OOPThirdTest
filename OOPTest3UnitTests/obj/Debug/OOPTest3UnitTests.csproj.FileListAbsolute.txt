@@ -1,0 +1,16 @@
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3UnitTests\bin\Debug\OOPTest3UnitTests.dll
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3UnitTests\bin\Debug\OOPTest3UnitTests.pdb
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3UnitTests\bin\Debug\OOPTest3.dll
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3UnitTests\bin\Debug\OOPTest3.pdb
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3UnitTests\obj\Debug\OOPTest3UnitTests.csproj.AssemblyReference.cache
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3UnitTests\obj\Debug\OOPTest3UnitTests.csproj.CoreCompileInputs.cache
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3UnitTests\obj\Debug\OOPTest3UnitTests.csproj.CopyComplete
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3UnitTests\obj\Debug\OOPTest3UnitTests.dll
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3UnitTests\obj\Debug\OOPTest3UnitTests.pdb

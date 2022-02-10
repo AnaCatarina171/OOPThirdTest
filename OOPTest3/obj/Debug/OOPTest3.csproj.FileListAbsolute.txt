@@ -1,0 +1,6 @@
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3\bin\Debug\OOPTest3.dll
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3\bin\Debug\OOPTest3.pdb
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3\obj\Debug\OOPTest3.csproj.AssemblyReference.cache
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3\obj\Debug\OOPTest3.csproj.CoreCompileInputs.cache
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3\obj\Debug\OOPTest3.dll
+C:\NBCC\Oriented_Object_Prog\test-3-AnaCatarina171\OOPTest3 2021 Starter\OOPTest3\obj\Debug\OOPTest3.pdb
